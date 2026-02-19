@@ -12,6 +12,7 @@ export enum AdminScreen {
   OVERVIEW = 'overview',
   STUDENTS = 'students',
   MISSIONS = 'missions',
+  REPORTS = 'reports',
   VALIDATION = 'validation',
   ECONOMY = 'economy',
   SETTINGS = 'settings'
